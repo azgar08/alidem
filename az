@@ -2,4 +2,4 @@
 uname -m
 host
 java -version
-git -version
+git --version
